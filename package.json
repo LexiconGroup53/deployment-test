@@ -1,5 +1,6 @@
 {
   "name": "deployment-test",
+  "homepage": "http://lexicongroup53.github.io/deployment-test",
   "private": true,
   "version": "0.0.0",
   "type": "module",
