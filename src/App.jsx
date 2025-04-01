@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>Testing GitHub Actions for React</h1>
+      <h1>Testing GitHub Actions for React (on GitHub)</h1>
     </>
   )
 }
